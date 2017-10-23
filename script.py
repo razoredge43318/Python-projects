@@ -1,4 +1,4 @@
-# Objective of this code is to interface with the twitter API, tweepy using python 2.7
+# Objective of this code is to interface with the twitter API, using tweepy and python 2.7
 # to get a list of user -> friend / follower -> user tuples in a csv file
 
 import csv
